@@ -10,6 +10,7 @@ public class bucles {
             System.out.print("Escribe  la nota que le darias a la pelicula de matrix");
             nota=teclado.nextDouble();
             mediaEvaluaciones = mediaEvaluaciones +nota;
+        
 
         }
         System.out.println("la media de nota para la pelicula de matrix es "+mediaEvaluaciones/3);
